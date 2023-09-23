@@ -1,0 +1,35 @@
+character:  Blue Yeti Studios. https://opengameart.org/content/runner-character
+
+Particles Senior Designer: Vytrx13
+
+
+
+
+
+arrow: https://opengameart.org/content/two-colored-arrows
+grass/dirt : Alucard https://opengameart.org/content/platform-tiles-0
+
+
+https://opengameart.org/content/rotating-coin
+https://opengameart.org/content/crystal-orbs-32x32
+
+spike ball: https://pixelfrog-assets.itch.io/pixel-adventure-1
+
+bg:
+https://opengameart.org/content/tiles-and-background-image
+https://caniaeast.itch.io/simple-sky-pixel-backgrounds
+
+death
+https://opengameart.org/content/11-male-human-paindeath-sounds
+
+
+music/sound:
+AI generated: BeatBot, beatoven.ai
+https://opengameart.org/content/coin-sound-effect-harmonica
+https://opengameart.org/content/11-male-human-paindeath-sounds
+
+
+
+some pygame ideas:
+http://programarcadegames.com/index.php
+https://www.youtube.com/@ClearCode
