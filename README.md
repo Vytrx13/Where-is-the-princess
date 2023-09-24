@@ -1,4 +1,4 @@
-lataformer in pygame <br>
+A plataformer in pygame <br>
 
 
 A challenging plataformer made with pygame. <br>
