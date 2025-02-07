@@ -6,6 +6,20 @@ Download the repository as a .zip, extract it and run Where_is_the_princess.exe 
 <br>
 If you close the game, your progress is saved. It is not advised to clear the game in one sitting. You should take your time, the game is hard. <br>
 Have fun!
+
+<br><br>
+Game images:
+<br>
+![image](https://github.com/user-attachments/assets/a4a2b16a-aadf-4660-b437-8f5fe94f1dbc)
+<br>
+![image](https://github.com/user-attachments/assets/112ce43b-7cb4-4c76-a016-3546c45ac977)
+<br>
+![image](https://github.com/user-attachments/assets/74752bf1-7c20-4480-99f4-a7c16a990df4)
+<br>
+
+
+
+
 <br> <br>
 credits: <br>
 <br>
@@ -13,6 +27,7 @@ credits: <br>
 character:  Blue Yeti Studios. https://opengameart.org/content/runner-character <br>
 
 Particles Senior Designer: Vytrx13 <br>
+
 
 
 
